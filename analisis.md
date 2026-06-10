@@ -189,3 +189,9 @@ File `init.sql` masih mengandung markdown code fence ` ```sql ` dan ` ``` `.
 ### Solusi
 
 Menghapus code fence sehingga file hanya berisi perintah SQL yang valid.
+
+# Dokumentasi
+<img width="523" height="345" alt="Screenshot 2026-06-10 230158" src="https://github.com/user-attachments/assets/c972876d-a5bb-4043-9a1b-fce225e026b6" />
+<img width="406" height="340" alt="image" src="https://github.com/user-attachments/assets/d641997e-58eb-4611-9322-631081573a93" />
+<img width="458" height="345" alt="image" src="https://github.com/user-attachments/assets/28267fd3-550a-4704-ba7b-e70bf3b8c11f" />
+
